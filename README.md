@@ -27,7 +27,9 @@ All I have done in the "Matzke_R_binaries" repository is put up the saved versio
 
 # Instructions
 
-Download the most recent version number of a package, and install manually.
+First, navigate to the most recent version number of a package, and click "Download" to download from GitHub.
+
+Second, install the downloaded package manually:
 
 - In R.app on Macs, you would click `Packages & Data -> Package Installer -> Packages Repository ("Local Binary Package" option) -> click "Install..." -> navigate to the saved binary file`.
 - From the R command line, type something like this: 
