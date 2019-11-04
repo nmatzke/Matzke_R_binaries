@@ -9,14 +9,14 @@ For archived packages, CRAN keeps the source code available, but the compiled bi
 
 1. Binaries install very quickly
 2. They do not require compilation of the source code on the user's computer
-3. Therefore, they do not require that the user install the compilers gfortran and gcc, a process which can take hours (see e.g. [https://solarianprogrammer.com/2017/05/21/compiling-gcc-macos/](https://solarianprogrammer.com/2017/05/21/compiling-gcc-macos/) for the Mac instructions, regularly updated for each new version of OS X).
-4. GitHub version of the packages also require compilation-from-source. If you have a "pure R" package (like BioGeoBEARS), this is easy, but if the source code contains C++ or FORTRAN, getting the right compilers and settings can be onerous for non-advanced users.
+3. Therefore, they do not require that the user install the compilers gfortran and gcc, a process which can take hours (see e.g. [https://solarianprogrammer.com/2017/05/21/compiling-gcc-macos/](https://solarianprogrammer.com/2017/05/21/compiling-gcc-macos/) for the Mac instructions, regularly updated for each new version of OS X). (See also [macports for gcc10](https://ports.macports.org/port/gcc10/).)
+4. GitHub version of the packages also require compilation-from-source. If you have a "pure R" package (like [BioGeoBEARS](https://github.com/nmatzke/BioGeoBEARS)), this is easy, but if the source code contains C++ or FORTRAN, getting the right compilers and settings can be onerous for non-advanced users.
 
 Getting non-technical users to install gcc and gfortran is onerous at best, and impossible in a workshop etc.
 
 # Method
 
-After a CRAN package is accepted, the binaries are typically made available by CRAN within a few days. They are in this section of the package page (this section is for the [CRAN cladoRcpp page](https://cran.r-project.org/web/packages/cladoRcpp/index.html)):
+After a CRAN package is accepted, the binaries are typically made available by CRAN within a few days. They are in this section of the package page (this section is for the [CRAN cladoRcpp page](https://CRAN.R-project.org/package=cladoRcpp)):
 
 ```
 Windows binaries:	r-devel: cladoRcpp_0.15.1.zip, r-release: cladoRcpp_0.15.1.zip, r-oldrel: cladoRcpp_0.15.1.zip
@@ -41,3 +41,9 @@ install.packages(pkgs="/GitHub/Matzke_R_binaries/cladoRcpp/cladoRcpp_0.15.1_MacR
 ```
 install.packages(pkgs="cladoRcpp_0.15.1_MacRrelease.tgz", repos=NULL, type="binary")
 ```
+
+# License
+
+All of these package versions are released under [GPL-3]. [cladoRcpp](https://CRAN.R-project.org/package=cladoRcpp) (see also [GitHub cladoRcpp](https://github.com/nmatzke/cladoRcpp)) and [rexpokit](https://CRAN.R-project.org/package=rexpokit) (see also [GitHub rexpokit](https://github.com/nmatzke/rexpokit)) are maintained by Nick Matzke. [kexpmv](https://CRAN.R-project.org/package=kexpmv) is maintained by Meabh G. McCurdy.
+
+If you have issues getting cladoRcpp or rexpokit installed, please use the [BioGeoBEARS Google Group](http://phylo.wikidot.com/biogeobears#help) to ask for help.
