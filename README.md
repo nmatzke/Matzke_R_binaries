@@ -46,6 +46,6 @@ install.packages(pkgs="cladoRcpp_0.15.1_MacRrelease.tgz", repos=NULL, type="bina
 
 # License
 
-All of these package versions are released under [GPL-3]. [cladoRcpp](https://CRAN.R-project.org/package=cladoRcpp) (see also [GitHub cladoRcpp](https://github.com/nmatzke/cladoRcpp)) and [rexpokit](https://CRAN.R-project.org/package=rexpokit) (see also [GitHub rexpokit](https://github.com/nmatzke/rexpokit)) are maintained by Nick Matzke. [kexpmv](https://CRAN.R-project.org/package=kexpmv) is maintained by Meabh G. McCurdy.
+All of these package versions are released under [GPL-3](https://cran.r-project.org/web/licenses/GPL-3). [cladoRcpp](https://CRAN.R-project.org/package=cladoRcpp) (see also [GitHub cladoRcpp](https://github.com/nmatzke/cladoRcpp)) and [rexpokit](https://CRAN.R-project.org/package=rexpokit) (see also [GitHub rexpokit](https://github.com/nmatzke/rexpokit)) are maintained by Nick Matzke. [kexpmv](https://CRAN.R-project.org/package=kexpmv) is authored and maintained by Meabh G. McCurdy.
 
 If you have issues getting cladoRcpp or rexpokit installed, please use the [BioGeoBEARS Google Group](http://phylo.wikidot.com/biogeobears#help) to ask for help.
