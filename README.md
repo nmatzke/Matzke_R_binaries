@@ -1,7 +1,7 @@
 # Matzke_R_binaries
- Archiving CRAN binaries of R packages (as CRAN does not)
+Archiving CRAN binaries of R packages (because CRAN only archives source code, not binaries)
 
-This repository simply copies of CRAN-generated binaries of R packages necessary/useful for [BioGeoBEARS](https://github.com/nmatzke/BioGeoBEARS). Initially these are: [cladoRcpp](https://CRAN.R-project.org/package=cladoRcpp) (see also [GitHub cladoRcpp](https://github.com/nmatzke/cladoRcpp)), [rexpokit](https://CRAN.R-project.org/package=rexpokit) (see also [GitHub rexpokit](https://github.com/nmatzke/rexpokit)), and [kexpmv](https://CRAN.R-project.org/package=kexpmv).
+This repository simply archives the CRAN-generated binaries of R packages necessary/useful for [BioGeoBEARS](https://github.com/nmatzke/BioGeoBEARS). Initially these are: [cladoRcpp](https://CRAN.R-project.org/package=cladoRcpp) (see also [GitHub cladoRcpp](https://github.com/nmatzke/cladoRcpp)), [rexpokit](https://CRAN.R-project.org/package=rexpokit) (see also [GitHub rexpokit](https://github.com/nmatzke/rexpokit)), and [kexpmv](https://CRAN.R-project.org/package=kexpmv).
 
 It seems to be a regular issue that CRAN changes its choice of compilers for `C++` and `FORTRAN`. Most recently, in October 2019, packages were tested against `gfortran`/`gcc10` (which is still in beta). When this happens, legacy `FORTRAN` code can throw CRAN warnings, despite having passed all previous checks, and then CRAN can decide to archive a package. This means it will no longer be visible in the "package search" functions in R.app or RStudio.
 
