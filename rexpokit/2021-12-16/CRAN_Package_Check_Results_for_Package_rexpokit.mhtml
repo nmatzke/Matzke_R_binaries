@@ -1,0 +1,172 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://cran.r-project.org/web/checks/check_results_rexpokit.html
+Subject: CRAN Package Check Results for Package rexpokit
+Date: Wed, 15 Dec 2021 21:11:03 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GFUBHPC5zOiIZVxdxkptZSYYaEtk2YJBwt7Awba22F----"
+
+
+------MultipartBoundary--GFUBHPC5zOiIZVxdxkptZSYYaEtk2YJBwt7Awba22F----
+Content-Type: text/html
+Content-ID: <frame-71F239A9ED719F72C5B0D0CDF7B4D08B@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cran.r-project.org/web/checks/check_results_rexpokit.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml" lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l; charset=3DUTF-8">
+<title>CRAN Package Check Results for Package rexpokit</title>
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://cran.r-project.o=
+rg/web/CRAN_web.css">
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0, user-scalable=3Dyes">
+</head>
+<body lang=3D"en">
+<div class=3D"container">
+<h2>CRAN Package Check Results for Package <a href=3D"https://cran.r-projec=
+t.org/web/packages/rexpokit/index.html"> rexpokit </a> </h2>
+<p>
+Last updated on 2021-12-15 21:51:56 CET.
+</p>
+<table border=3D"1" summary=3D"CRAN check results for package rexpokit">
+<tbody><tr> <th> Flavor </th> <th> Version </th> <th> T<sub>install</sub> <=
+/th> <th> T<sub>check</sub> </th> <th> T<sub>total</sub> </th> <th> Status =
+</th> <th> Flags </th> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-debian-clang"> r-devel-linux-x86_64-debian-clang <=
+/a> </td> <td> 0.26.6.7 </td> <td class=3D"r"> 23.41 </td> <td class=3D"r">=
+ 42.56 </td> <td class=3D"r"> 65.97 </td> <td> <a href=3D"https://www.r-pro=
+ject.org/nosvn/R.check/r-devel-linux-x86_64-debian-clang/rexpokit-00check.h=
+tml"><span class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-debian-gcc"> r-devel-linux-x86_64-debian-gcc </a> =
+</td> <td> 0.26.6.7 </td> <td class=3D"r"> 15.30 </td> <td class=3D"r"> 36.=
+44 </td> <td class=3D"r"> 51.74 </td> <td> <a href=3D"https://www.r-project=
+.org/nosvn/R.check/r-devel-linux-x86_64-debian-gcc/rexpokit-00check.html"><=
+span class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-fedora-clang"> r-devel-linux-x86_64-fedora-clang <=
+/a> </td> <td> 0.26.6.7 </td> <td class=3D"r">  </td> <td class=3D"r">  </t=
+d> <td class=3D"r"> 91.19 </td> <td> <a href=3D"https://www.r-project.org/n=
+osvn/R.check/r-devel-linux-x86_64-fedora-clang/rexpokit-00check.html"><span=
+ class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-fedora-gcc"> r-devel-linux-x86_64-fedora-gcc </a> =
+</td> <td> 0.26.6.7 </td> <td class=3D"r">  </td> <td class=3D"r">  </td> <=
+td class=3D"r"> 72.96 </td> <td> <a href=3D"https://www.r-project.org/nosvn=
+/R.check/r-devel-linux-x86_64-fedora-gcc/rexpokit-00check.html"><span class=
+=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-windows-x86_64-new-UL"> r-devel-windows-x86_64-new-UL </a> </td=
+> <td> 0.26.6.7 </td> <td class=3D"r"> 40.00 </td> <td class=3D"r"> 103.00 =
+</td> <td class=3D"r"> 143.00 </td> <td> <a href=3D"https://www.r-project.o=
+rg/nosvn/R.check/r-devel-windows-x86_64-new-UL/rexpokit-00check.html"><span=
+ class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-windows-x86_64-new-TK"> r-devel-windows-x86_64-new-TK </a> </td=
+> <td> 0.26.6.7 </td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td c=
+lass=3D"r">  </td> <td> <a href=3D"https://www.r-project.org/nosvn/R.check/=
+r-devel-windows-x86_64-new-TK/rexpokit-00check.html"><span class=3D"check_o=
+k">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-patched-linux-x86_64"> r-patched-linux-x86_64 </a> </td> <td> 0.26.6.=
+7 </td> <td class=3D"r"> 20.43 </td> <td class=3D"r"> 41.02 </td> <td class=
+=3D"r"> 61.45 </td> <td> <a href=3D"https://www.r-project.org/nosvn/R.check=
+/r-patched-linux-x86_64/rexpokit-00check.html"><span class=3D"check_ok">OK<=
+/span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-linux-x86_64"> r-release-linux-x86_64 </a> </td> <td> 0.26.6.=
+7 </td> <td class=3D"r"> 18.55 </td> <td class=3D"r"> 41.30 </td> <td class=
+=3D"r"> 59.85 </td> <td> <a href=3D"https://www.r-project.org/nosvn/R.check=
+/r-release-linux-x86_64/rexpokit-00check.html"><span class=3D"check_ok">OK<=
+/span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-macos-arm64"> r-release-macos-arm64 </a> </td> <td> 0.26.6.7 =
+</td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td class=3D"r">  </t=
+d> <td> <a href=3D"https://www.r-project.org/nosvn/R.check/r-release-macos-=
+arm64/rexpokit-00check.html"><span class=3D"check_ok">OK</span></a> </td> <=
+td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-macos-x86_64"> r-release-macos-x86_64 </a> </td> <td> 0.26.6.=
+7 </td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td class=3D"r">  <=
+/td> <td> <a href=3D"https://www.r-project.org/nosvn/R.check/r-release-maco=
+s-x86_64/rexpokit-00check.html"><span class=3D"check_ok">OK</span></a> </td=
+> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-windows-ix86_x86_64"> r-release-windows-ix86+x86_64 </a> </td=
+> <td> 0.26.6.7 </td> <td class=3D"r"> 59.00 </td> <td class=3D"r"> 82.00 <=
+/td> <td class=3D"r"> 141.00 </td> <td> <a href=3D"https://www.r-project.or=
+g/nosvn/R.check/r-release-windows-ix86+x86_64/rexpokit-00check.html"><span =
+class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-oldrel-macos-x86_64"> r-oldrel-macos-x86_64 </a> </td> <td> 0.26.6.7 =
+</td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td class=3D"r">  </t=
+d> <td> <a href=3D"https://www.r-project.org/nosvn/R.check/r-oldrel-macos-x=
+86_64/rexpokit-00check.html"><span class=3D"check_ok">OK</span></a> </td> <=
+td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-oldrel-windows-ix86_x86_64"> r-oldrel-windows-ix86+x86_64 </a> </td> =
+<td> 0.26.6.7 </td> <td class=3D"r"> 60.00 </td> <td class=3D"r"> 80.00 </t=
+d> <td class=3D"r"> 140.00 </td> <td> <a href=3D"https://www.r-project.org/=
+nosvn/R.check/r-oldrel-windows-ix86+x86_64/rexpokit-00check.html"><span cla=
+ss=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+</tbody></table>
+</div>
+
+
+</body></html>
+------MultipartBoundary--GFUBHPC5zOiIZVxdxkptZSYYaEtk2YJBwt7Awba22F----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cran.r-project.org/web/CRAN_web.css
+
+@charset "utf-8";
+
+body { background: white; color: black; }
+
+h1 { background: white; color: rgb(140, 140, 140); font-family: monospace; =
+font-size: x-large; text-align: center; }
+
+h2 { background: white; color: rgb(102, 102, 102); font-family: monospace; =
+font-size: large; }
+
+h3, h4, h5 { background: white; color: rgb(102, 102, 102); font-family: mon=
+ospace; }
+
+a { background: white; color: blue; }
+
+em.navigation { font-weight: bold; font-style: normal; background: white; c=
+olor: rgb(102, 102, 102); font-family: monospace; }
+
+img.toplogo { vertical-align: middle; }
+
+span.check_ok { color: black; }
+
+span.check_ko { color: red; }
+
+span.BioC { color: rgb(44, 146, 161); }
+
+span.Ohat { color: rgb(138, 69, 19); }
+
+span.Gcode { color: rgb(91, 138, 0); }
+
+span.Rforge { color: rgb(128, 9, 170); }
+
+span.GitHub { color: rgb(159, 123, 225); }
+
+span.acronym { font-size: small; }
+
+span.env { font-family: monospace; }
+
+span.file { font-family: monospace; }
+
+span.option { font-family: monospace; }
+
+span.pkg { font-weight: bold; }
+
+span.samp { font-family: monospace; }
+------MultipartBoundary--GFUBHPC5zOiIZVxdxkptZSYYaEtk2YJBwt7Awba22F------

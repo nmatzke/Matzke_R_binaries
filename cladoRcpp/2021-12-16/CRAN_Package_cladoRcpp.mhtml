@@ -1,0 +1,250 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://cran.r-project.org/web/packages/cladoRcpp/index.html
+Subject: CRAN - Package cladoRcpp
+Date: Wed, 15 Dec 2021 21:11:40 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--fd6Mf7tizBjfXEOtXcf6cM6aEu4FUt3U7EWOLqasU5----"
+
+
+------MultipartBoundary--fd6Mf7tizBjfXEOtXcf6cM6aEu4FUt3U7EWOLqasU5----
+Content-Type: text/html
+Content-ID: <frame-7CC3724CC53FA9DE94627A2871D3F9D8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cran.r-project.org/web/packages/cladoRcpp/index.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-2d4a89=
+0d-02bb-473f-94b0-cb25c12dbfef@mhtml.blink" />
+<title>CRAN - Package cladoRcpp</title>
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://cran.r-project.o=
+rg/web/CRAN_web.css">
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0, user-scalable=3Dyes">
+<meta name=3D"citation_title" content=3D"C++ Implementations of Phylogeneti=
+c Cladogenesis Calculations [R package cladoRcpp version 0.15.1]">
+<meta name=3D"citation_author" content=3D"Nicholas J. Matzke">
+<meta name=3D"citation_publication_date" content=3D"2018-11-21">
+<meta name=3D"citation_public_url" content=3D"https://CRAN.R-project.org/pa=
+ckage=3DcladoRcpp">
+<meta name=3D"DC.identifier" content=3D"https://CRAN.R-project.org/package=
+=3DcladoRcpp">
+<meta name=3D"DC.publisher" content=3D"Comprehensive R Archive Network (CRA=
+N)">
+<meta name=3D"og:title" content=3D"cladoRcpp: C++ Implementations of Phylog=
+enetic Cladogenesis Calculations">
+<meta name=3D"og:description" content=3D"Various cladogenesis-related calcu=
+lations that are slow in pure R are implemented in C++ with Rcpp. These inc=
+lude the calculation of the probability of various scenarios for the inheri=
+tance of geographic range at the divergence events on a phylogenetic tree, =
+and other calculations necessary for models which are not continuous-time m=
+arkov chains (CTMC), but where change instead occurs instantaneously at spe=
+ciation events. Typically these models must assess the probability of every=
+ possible combination of (ancestor state, left descendent state, right desc=
+endent state). This means that there are up to (# of states)^3 combinations=
+ to investigate, and in biogeographical models, there can easily be hundred=
+s of states, so calculation time becomes an issue. C++ implementation plus =
+clever tricks (many combinations can be eliminated a priori) can greatly sp=
+eed the computation time over naive R implementations. CITATION INFO: This =
+package is the result of my Ph.D. research, please cite the package if you =
+use it! Type: citation(package=3D&quot;cladoRcpp&quot;) to get the citation=
+ information.">
+<meta name=3D"og:image" content=3D"https://CRAN.R-project.org/CRANlogo.png"=
+>
+<meta name=3D"og:type" content=3D"website">
+<meta name=3D"og:url" content=3D"https://CRAN.R-project.org/package=3Dclado=
+Rcpp">
+<meta name=3D"twitter:card" content=3D"summary">
+<meta name=3D"twitter:site" content=3D"@_R_Foundation">
+
+</head>
+<body>
+<div class=3D"container">
+<h2>cladoRcpp: C++ Implementations of Phylogenetic Cladogenesis Calculation=
+s</h2>
+<p>Various cladogenesis-related calculations that are slow in pure R are im=
+plemented in C++ with Rcpp. These include the calculation of the probabilit=
+y of various scenarios for the inheritance of geographic range at the diver=
+gence events on a phylogenetic tree, and other calculations necessary for m=
+odels which are not continuous-time markov chains (CTMC), but where change =
+instead occurs instantaneously at speciation events.  Typically these model=
+s must assess the probability of every possible combination of (ancestor st=
+ate, left descendent state, right descendent state).  This means that there=
+ are up to (# of states)^3 combinations to investigate, and in biogeographi=
+cal models, there can easily be hundreds of states, so calculation time bec=
+omes an issue.  C++ implementation plus clever tricks (many combinations ca=
+n be eliminated a priori) can greatly speed the computation time over naive=
+ R implementations.  CITATION INFO: This package is the result of my Ph.D. =
+research, please cite the package if you use it!  Type: citation(package=3D=
+"cladoRcpp") to get the citation information.</p>
+<table summary=3D"Package cladoRcpp summary">
+<tbody><tr>
+<td>Version:</td>
+<td>0.15.1</td>
+</tr>
+<tr>
+<td>Imports:</td>
+<td><a href=3D"https://cran.r-project.org/web/packages/Rcpp/index.html">Rcp=
+p</a></td>
+</tr>
+<tr>
+<td>LinkingTo:</td>
+<td><a href=3D"https://cran.r-project.org/web/packages/Rcpp/index.html">Rcp=
+p</a>, <a href=3D"https://cran.r-project.org/web/packages/RcppArmadillo/ind=
+ex.html">RcppArmadillo</a></td>
+</tr>
+<tr>
+<td>Published:</td>
+<td>2018-11-21</td>
+</tr>
+<tr>
+<td>Author:</td>
+<td>Nicholas J. Matzke [aut, cre, cph]</td>
+</tr>
+<tr>
+<td>Maintainer:</td>
+<td>Nicholas J. Matzke  &lt;nickmatzke.ncse at gmail.com&gt;</td>
+</tr>
+<tr>
+<td>License:</td>
+<td><a href=3D"https://cran.r-project.org/web/licenses/GPL-2">GPL-2</a> | <=
+a href=3D"https://cran.r-project.org/web/licenses/GPL-3">GPL-3</a> [expande=
+d from: GPL (=E2=89=A5 2)]</td>
+</tr>
+<tr>
+<td>URL:</td>
+<td><a href=3D"http://phylo.wikidot.com/biogeobears">http://phylo.wikidot.c=
+om/biogeobears</a></td>
+</tr>
+<tr>
+<td>NeedsCompilation:</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Citation:</td>
+<td><a href=3D"https://cran.r-project.org/web/packages/cladoRcpp/citation.h=
+tml">cladoRcpp citation info</a> </td>
+</tr>
+<tr>
+<td>Materials:</td>
+<td><a href=3D"https://cran.r-project.org/web/packages/cladoRcpp/NEWS">NEWS=
+</a> </td>
+</tr>
+<tr>
+<td>CRAN&nbsp;checks:</td>
+<td><a href=3D"https://cran.r-project.org/web/checks/check_results_cladoRcp=
+p.html">cladoRcpp results</a></td>
+</tr>
+</tbody></table>
+<h4>Documentation:</h4>
+<table summary=3D"Package cladoRcpp documentation">
+<tbody><tr>
+<td> Reference&nbsp;manual: </td>
+<td> <a href=3D"https://cran.r-project.org/web/packages/cladoRcpp/cladoRcpp=
+.pdf"> cladoRcpp.pdf </a> </td>
+</tr>
+</tbody></table>
+<h4>Downloads:</h4>
+<table summary=3D"Package cladoRcpp downloads">
+<tbody><tr>
+<td> Package&nbsp;source: </td>
+<td> <a href=3D"https://cran.r-project.org/src/contrib/cladoRcpp_0.15.1.tar=
+.gz"> cladoRcpp_0.15.1.tar.gz </a> </td>
+</tr>
+<tr>
+<td> Windows&nbsp;binaries: </td>
+<td> r-devel: <a href=3D"https://cran.r-project.org/bin/windows/contrib/4.2=
+/cladoRcpp_0.15.1.zip">cladoRcpp_0.15.1.zip</a>, r-devel-UCRT: <a href=3D"h=
+ttps://www.r-project.org/nosvn/winutf8/ucrt3/CRAN/bin/windows/contrib/4.2/c=
+ladoRcpp_0.15.1.zip">cladoRcpp_0.15.1.zip</a>, r-release: <a href=3D"https:=
+//cran.r-project.org/bin/windows/contrib/4.1/cladoRcpp_0.15.1.zip">cladoRcp=
+p_0.15.1.zip</a>, r-oldrel: <a href=3D"https://cran.r-project.org/bin/windo=
+ws/contrib/4.0/cladoRcpp_0.15.1.zip">cladoRcpp_0.15.1.zip</a> </td>
+</tr>
+<tr>
+<td> macOS&nbsp;binaries: </td>
+<td> r-release (arm64): <a href=3D"https://cran.r-project.org/bin/macosx/bi=
+g-sur-arm64/contrib/4.1/cladoRcpp_0.15.1.tgz">cladoRcpp_0.15.1.tgz</a>, r-r=
+elease (x86_64): <a href=3D"https://cran.r-project.org/bin/macosx/contrib/4=
+.1/cladoRcpp_0.15.1.tgz">cladoRcpp_0.15.1.tgz</a>, r-oldrel: <a href=3D"htt=
+ps://cran.r-project.org/bin/macosx/contrib/4.0/cladoRcpp_0.15.1.tgz">cladoR=
+cpp_0.15.1.tgz</a> </td>
+</tr>
+<tr>
+<td> Old&nbsp;sources: </td>
+<td> <a href=3D"https://cran.r-project.org/src/contrib/Archive/cladoRcpp"> =
+cladoRcpp archive </a> </td>
+</tr>
+</tbody></table>
+<h4>Linking:</h4>
+<p>Please use the canonical form
+<a href=3D"https://cran.r-project.org/package=3DcladoRcpp"><samp>https://CR=
+AN.R-project.org/package=3DcladoRcpp</samp></a>
+to link to this page.</p>
+</div>
+
+
+</body></html>
+------MultipartBoundary--fd6Mf7tizBjfXEOtXcf6cM6aEu4FUt3U7EWOLqasU5----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2d4a890d-02bb-473f-94b0-cb25c12dbfef@mhtml.blink
+
+@charset "utf-8";
+
+table td { vertical-align: top; }
+------MultipartBoundary--fd6Mf7tizBjfXEOtXcf6cM6aEu4FUt3U7EWOLqasU5----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cran.r-project.org/web/CRAN_web.css
+
+@charset "utf-8";
+
+body { background: white; color: black; }
+
+h1 { background: white; color: rgb(140, 140, 140); font-family: monospace; =
+font-size: x-large; text-align: center; }
+
+h2 { background: white; color: rgb(102, 102, 102); font-family: monospace; =
+font-size: large; }
+
+h3, h4, h5 { background: white; color: rgb(102, 102, 102); font-family: mon=
+ospace; }
+
+a { background: white; color: blue; }
+
+em.navigation { font-weight: bold; font-style: normal; background: white; c=
+olor: rgb(102, 102, 102); font-family: monospace; }
+
+img.toplogo { vertical-align: middle; }
+
+span.check_ok { color: black; }
+
+span.check_ko { color: red; }
+
+span.BioC { color: rgb(44, 146, 161); }
+
+span.Ohat { color: rgb(138, 69, 19); }
+
+span.Gcode { color: rgb(91, 138, 0); }
+
+span.Rforge { color: rgb(128, 9, 170); }
+
+span.GitHub { color: rgb(159, 123, 225); }
+
+span.acronym { font-size: small; }
+
+span.env { font-family: monospace; }
+
+span.file { font-family: monospace; }
+
+span.option { font-family: monospace; }
+
+span.pkg { font-weight: bold; }
+
+span.samp { font-family: monospace; }
+------MultipartBoundary--fd6Mf7tizBjfXEOtXcf6cM6aEu4FUt3U7EWOLqasU5------

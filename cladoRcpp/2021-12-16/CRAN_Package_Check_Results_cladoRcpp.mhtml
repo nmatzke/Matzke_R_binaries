@@ -1,0 +1,172 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://cran.r-project.org/web/checks/check_results_cladoRcpp.html
+Subject: CRAN Package Check Results for Package cladoRcpp
+Date: Wed, 15 Dec 2021 21:14:02 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--5IHtK0b94FU1FmFU2rItAIq5A1fRp6OQgZuZRMmliN----"
+
+
+------MultipartBoundary--5IHtK0b94FU1FmFU2rItAIq5A1fRp6OQgZuZRMmliN----
+Content-Type: text/html
+Content-ID: <frame-7CC3724CC53FA9DE94627A2871D3F9D8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cran.r-project.org/web/checks/check_results_cladoRcpp.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml" lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l; charset=3DUTF-8">
+<title>CRAN Package Check Results for Package cladoRcpp</title>
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://cran.r-project.o=
+rg/web/CRAN_web.css">
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0, user-scalable=3Dyes">
+</head>
+<body lang=3D"en">
+<div class=3D"container">
+<h2>CRAN Package Check Results for Package <a href=3D"https://cran.r-projec=
+t.org/web/packages/cladoRcpp/index.html"> cladoRcpp </a> </h2>
+<p>
+Last updated on 2021-12-15 21:51:40 CET.
+</p>
+<table border=3D"1" summary=3D"CRAN check results for package cladoRcpp">
+<tbody><tr> <th> Flavor </th> <th> Version </th> <th> T<sub>install</sub> <=
+/th> <th> T<sub>check</sub> </th> <th> T<sub>total</sub> </th> <th> Status =
+</th> <th> Flags </th> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-debian-clang"> r-devel-linux-x86_64-debian-clang <=
+/a> </td> <td> 0.15.1 </td> <td class=3D"r"> 25.56 </td> <td class=3D"r"> 4=
+0.14 </td> <td class=3D"r"> 65.70 </td> <td> <a href=3D"https://www.r-proje=
+ct.org/nosvn/R.check/r-devel-linux-x86_64-debian-clang/cladoRcpp-00check.ht=
+ml"><span class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-debian-gcc"> r-devel-linux-x86_64-debian-gcc </a> =
+</td> <td> 0.15.1 </td> <td class=3D"r"> 17.44 </td> <td class=3D"r"> 33.99=
+ </td> <td class=3D"r"> 51.43 </td> <td> <a href=3D"https://www.r-project.o=
+rg/nosvn/R.check/r-devel-linux-x86_64-debian-gcc/cladoRcpp-00check.html"><s=
+pan class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-fedora-clang"> r-devel-linux-x86_64-fedora-clang <=
+/a> </td> <td> 0.15.1 </td> <td class=3D"r">  </td> <td class=3D"r">  </td>=
+ <td class=3D"r"> 89.07 </td> <td> <a href=3D"https://www.r-project.org/nos=
+vn/R.check/r-devel-linux-x86_64-fedora-clang/cladoRcpp-00check.html"><span =
+class=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-linux-x86_64-fedora-gcc"> r-devel-linux-x86_64-fedora-gcc </a> =
+</td> <td> 0.15.1 </td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td=
+ class=3D"r"> 71.10 </td> <td> <a href=3D"https://www.r-project.org/nosvn/R=
+.check/r-devel-linux-x86_64-fedora-gcc/cladoRcpp-00check.html"><span class=
+=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-windows-x86_64-new-UL"> r-devel-windows-x86_64-new-UL </a> </td=
+> <td> 0.15.1 </td> <td class=3D"r"> 35.00 </td> <td class=3D"r"> 92.00 </t=
+d> <td class=3D"r"> 127.00 </td> <td> <a href=3D"https://www.r-project.org/=
+nosvn/R.check/r-devel-windows-x86_64-new-UL/cladoRcpp-00check.html"><span c=
+lass=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-devel-windows-x86_64-new-TK"> r-devel-windows-x86_64-new-TK </a> </td=
+> <td> 0.15.1 </td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td cla=
+ss=3D"r">  </td> <td> <a href=3D"https://www.r-project.org/nosvn/R.check/r-=
+devel-windows-x86_64-new-TK/cladoRcpp-00check.html"><span class=3D"check_ok=
+">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-patched-linux-x86_64"> r-patched-linux-x86_64 </a> </td> <td> 0.15.1 =
+</td> <td class=3D"r"> 21.35 </td> <td class=3D"r"> 37.95 </td> <td class=
+=3D"r"> 59.30 </td> <td> <a href=3D"https://www.r-project.org/nosvn/R.check=
+/r-patched-linux-x86_64/cladoRcpp-00check.html"><span class=3D"check_ok">OK=
+</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-linux-x86_64"> r-release-linux-x86_64 </a> </td> <td> 0.15.1 =
+</td> <td class=3D"r"> 21.19 </td> <td class=3D"r"> 37.79 </td> <td class=
+=3D"r"> 58.98 </td> <td> <a href=3D"https://www.r-project.org/nosvn/R.check=
+/r-release-linux-x86_64/cladoRcpp-00check.html"><span class=3D"check_ok">OK=
+</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-macos-arm64"> r-release-macos-arm64 </a> </td> <td> 0.15.1 </=
+td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td class=3D"r">  </td>=
+ <td> <a href=3D"https://www.r-project.org/nosvn/R.check/r-release-macos-ar=
+m64/cladoRcpp-00check.html"><span class=3D"check_ok">OK</span></a> </td> <t=
+d>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-macos-x86_64"> r-release-macos-x86_64 </a> </td> <td> 0.15.1 =
+</td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td class=3D"r">  </t=
+d> <td> <a href=3D"https://www.r-project.org/nosvn/R.check/r-release-macos-=
+x86_64/cladoRcpp-00check.html"><span class=3D"check_ok">OK</span></a> </td>=
+ <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-release-windows-ix86_x86_64"> r-release-windows-ix86+x86_64 </a> </td=
+> <td> 0.15.1 </td> <td class=3D"r"> 55.00 </td> <td class=3D"r"> 73.00 </t=
+d> <td class=3D"r"> 128.00 </td> <td> <a href=3D"https://www.r-project.org/=
+nosvn/R.check/r-release-windows-ix86+x86_64/cladoRcpp-00check.html"><span c=
+lass=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-oldrel-macos-x86_64"> r-oldrel-macos-x86_64 </a> </td> <td> 0.15.1 </=
+td> <td class=3D"r">  </td> <td class=3D"r">  </td> <td class=3D"r">  </td>=
+ <td> <a href=3D"https://www.r-project.org/nosvn/R.check/r-oldrel-macos-x86=
+_64/cladoRcpp-00check.html"><span class=3D"check_ok">OK</span></a> </td> <t=
+d>  </td> </tr>
+<tr> <td>  <a href=3D"https://cran.r-project.org/web/checks/check_flavors.h=
+tml#r-oldrel-windows-ix86_x86_64"> r-oldrel-windows-ix86+x86_64 </a> </td> =
+<td> 0.15.1 </td> <td class=3D"r"> 57.00 </td> <td class=3D"r"> 74.00 </td>=
+ <td class=3D"r"> 131.00 </td> <td> <a href=3D"https://www.r-project.org/no=
+svn/R.check/r-oldrel-windows-ix86+x86_64/cladoRcpp-00check.html"><span clas=
+s=3D"check_ok">OK</span></a> </td> <td>  </td> </tr>
+</tbody></table>
+</div>
+
+
+</body></html>
+------MultipartBoundary--5IHtK0b94FU1FmFU2rItAIq5A1fRp6OQgZuZRMmliN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cran.r-project.org/web/CRAN_web.css
+
+@charset "utf-8";
+
+body { background: white; color: black; }
+
+h1 { background: white; color: rgb(140, 140, 140); font-family: monospace; =
+font-size: x-large; text-align: center; }
+
+h2 { background: white; color: rgb(102, 102, 102); font-family: monospace; =
+font-size: large; }
+
+h3, h4, h5 { background: white; color: rgb(102, 102, 102); font-family: mon=
+ospace; }
+
+a { background: white; color: blue; }
+
+em.navigation { font-weight: bold; font-style: normal; background: white; c=
+olor: rgb(102, 102, 102); font-family: monospace; }
+
+img.toplogo { vertical-align: middle; }
+
+span.check_ok { color: black; }
+
+span.check_ko { color: red; }
+
+span.BioC { color: rgb(44, 146, 161); }
+
+span.Ohat { color: rgb(138, 69, 19); }
+
+span.Gcode { color: rgb(91, 138, 0); }
+
+span.Rforge { color: rgb(128, 9, 170); }
+
+span.GitHub { color: rgb(159, 123, 225); }
+
+span.acronym { font-size: small; }
+
+span.env { font-family: monospace; }
+
+span.file { font-family: monospace; }
+
+span.option { font-family: monospace; }
+
+span.pkg { font-weight: bold; }
+
+span.samp { font-family: monospace; }
+------MultipartBoundary--5IHtK0b94FU1FmFU2rItAIq5A1fRp6OQgZuZRMmliN------
