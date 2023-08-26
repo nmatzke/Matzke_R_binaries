@@ -36,3 +36,4 @@ vignettes/*.pdf
 *.knit.md
 cladoRcpp/.DS_Store
 .DS_Store
+.DS_Store
